@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nba>
+        <team>
+               <name>Atlanta Hawks</name>
+                <abreviation>ATL</abreviation>
+                <city>Atlanta, Georgia</city>
+                <conference>East</conference>
+                <division>Southeast</division>
+                <logo>Hawks.png</logo>
+                <stadium>State Farm Arena</stadium>
+                <stadimage>hawksstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/hawks/</webteam>
+                <webroster>https://www.nba.com/hawks/roster</webroster>
+                <player>Trae Young</player>
+                <playerimage>trae.png</playerimage>
+                <position>Guard</position>
+                <dob>19 Sep 1998</dob>
+                <height>6'1"</height>
+                <draft>#5   2018</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Trae_Young</playerweb>
+        </team>
+
+        <team>
+               <name>Boston Celtics</name>
+                <abreviation>BOS</abreviation>
+                <city>Boston, Massachusetts</city>
+                <conference>East</conference>
+                <division>Atlantic</division>
+                <logo>Celtics.png</logo>
+                <stadium>TD Garden</stadium>
+                <stadimage>celticsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/celtics/</webteam>
+                <webroster>https://www.nba.com/celtics/roster</webroster>
+                <player>Jayjaysonson Tatum</player>
+                <playerimage>jayson.png</playerimage>
+                <position>Forward</position>
+                <dob>03 Mar 1998</dob>
+                <height>6'8"</height>
+                <draft>#3   2017</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Jayson_Tatum</playerweb>
+        </team>
+
+        <team>
+               <name>Brooklyn Nets</name>
+                <abreviation>BKN</abreviation>
+                <city>New York City, New York</city>
+                <conference>East</conference>
+                <division>Atlantic</division>
+                <logo>Nets.png</logo>
+                <stadium>Barclays Center</stadium>
+                <stadimage>netsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/nets/</webteam>
+                <webroster>https://www.nba.com/nets/roster</webroster>
+                <player>Kevin Durant</player>
+                <playerimage>kd.png</playerimage>
+                <position>Forward</position>
+                <dob>29 Sep 1988</dob>
+                <height>6'10"</height>
+                <draft>#2   2007</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Kevin_Durant</playerweb>
+        </team>
+
+        <team>
+               <name>Charlotte Hornets</name>
+                <abreviation>CHA</abreviation>
+                <city>Charlotte, North Carolina</city>
+                <conference>East</conference>
+                <division>Southeast</division>
+                <logo>Hornets.png</logo>
+                <stadium>Spectrum Center</stadium>
+                <stadimage>hornetsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/hornets/</webteam>
+                <webroster>https://www.nba.com/hornets/roster</webroster>
+                <player>LaMelo Ball</player>
+                <playerimage>ball.png</playerimage>
+                <position>Guard</position>
+                <dob>22 Aug 2001</dob>
+                <height>6'7"</height>
+                <draft>#1   2020</draft>
+                <playerweb>https://en.wikipedia.org/wiki/LaMelo_Ball</playerweb>
+        </team>
+
+        <team>
+               <name>Chicago Bulls</name>
+                <abreviation>CHI</abreviation>
+                <city>Chicago, Illinois</city>
+                <conference>East</conference>
+                <division>Central</division>
+                <logo>Bulls.png</logo>
+                <stadium>United Center</stadium>
+                <stadimage>bullsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/bulls/</webteam>
+                <webroster>https://www.nba.com/bulls/roster</webroster>
+                <player>DeMar DeRozan</player>
+                <playerimage>demar.png</playerimage>
+                <position>Guard</position>
+                <dob>07 Aug 1989</dob>
+                <height>6'6"</height>
+                <draft>#9   2009</draft>
+                <playerweb>https://en.wikipedia.org/wiki/DeMar_DeRozan</playerweb>
+        </team>
+
+        <team>
+               <name>Cleveland Cavaliers</name>
+                <abreviation>CLE</abreviation>
+                <city>Cleveland, Ohio</city>
+                <conference>East</conference>
+                <division>Central</division>
+                <logo>Cavs.png</logo>
+                <stadium>Rocket Mortgage FieldHouse</stadium>
+                <stadimage>cavsstad.png</stadimage>
+                <webteam>https://www.nba.com/cavaliers/</webteam>
+                <webroster>https://www.nba.com/cavaliers/roster</webroster>
+                <player>Evan Mobley</player>
+                <playerimage>mobley.png</playerimage>
+                <position>Center</position>
+                <dob>18 Jun 2001</dob>
+                <height>6'11"</height>
+                <draft>#3   2021</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Evan_Mobley</playerweb>
+        </team>
+
+        <team>
+               <name>Dallas Mavericks</name>
+                <abreviation>DAL</abreviation>
+                <city>Dallas, Texas</city>
+                <conference>West</conference>
+                <division>Southwest</division>
+                <logo>Mavs.png</logo>
+                <stadium>American Airlines Center</stadium>
+                <stadimage>mavsstad.jpeg</stadimage>
+                <webteam>https://www.mavs.com</webteam>
+                <webroster>https://www.mavs.com/team/roster</webroster>
+                <player>Luka Dončić</player>
+                <playerimage>luka.png</playerimage>
+                <position>Guard</position>
+                <dob>28 Feb 1999</dob>
+                <height>6'4"</height>
+                <draft>#3   2018</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Luka_Dončić</playerweb>
+        </team>
+
+        <team>
+               <name>Denver Nuggets</name>
+                <abreviation>DEN</abreviation>
+                <city>Denver, Colorado</city>
+                <conference>West</conference>
+                <division>Northwest</division>
+                <logo>Nuggets.png</logo>
+                <stadium>Pepsi Center</stadium>
+                <stadimage>nuggetsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/nuggets/</webteam>
+                <webroster>https://www.nba.com/nuggets/roster</webroster>
+                <player>Nikola Jokic</player>
+                <playerimage>joker.png</playerimage>
+                <position>Center</position>
+                <dob>19 Feb 1995</dob>
+                <height>6'11"</height>
+                <draft>#41   2014</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Nikola_Jokić</playerweb>
+        </team>
+
+        <team>
+               <name>Detroit Pistons</name>
+                <abreviation>DET</abreviation>
+                <city>Detroit, Michigan</city>
+                <conference>East</conference>
+                <division>Central</division>
+                <logo>Pistons.png</logo>
+                <stadium>Little Caesars Arena</stadium>
+                <stadimage>pistonsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/pistons/</webteam>
+                <webroster>https://www.nba.com/pistons/roster</webroster>
+                <player>Cade Cunningham</player>
+                <playerimage>cade.png</playerimage>
+                <position>Guard</position>
+                <dob>25 Sep 2001</dob>
+                <height>6'6"</height>
+                <draft>#1   2021</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Cade_Cunningham</playerweb>
+        </team>
+
+        <team>
+               <name>Golden State Warriors</name>
+                <abreviation>GSW</abreviation>
+                <city>San Francisco, California</city>
+                <conference>West</conference>
+                <division>Pacific</division>
+                <logo>Warriors.png</logo>
+                <stadium>Chase Center</stadium>
+                <stadimage>gswstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/warriors/</webteam>
+                <webroster>https://www.nba.com/warriors/roster</webroster>
+                <player>Stephen Curry</player>
+                <playerimage>curry.png</playerimage>
+                <position>Guard</position>
+                <dob>14 Mar 1988</dob>
+                <height>6'2"</height>
+                <draft>#7   2009</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Stephen_Curry</playerweb>
+        </team>
+
+        <team>
+               <name>Houston Rockets</name>
+                <abreviation>HOU</abreviation>
+                <city>Houston, Texas</city>
+                <conference>West</conference>
+                <division>Southwest</division>
+                <logo>Rockets.png</logo>
+                <stadium>Toyota Center</stadium>
+                <stadimage>rocketsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/rockets/</webteam>
+                <webroster>https://www.nba.com/rockets/roster</webroster>
+                <player>Jalen Green</player>
+                <playerimage>green.png</playerimage>
+                <position>Guard</position>
+                <dob>09 Feb 2002</dob>
+                <height>6'4"</height>
+                <draft>#2   2021</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Jalen_Green</playerweb>
+        </team>
+
+        <team>
+               <name>Indiana Pacers</name>
+                <abreviation>IND</abreviation>
+                <city>Indianapolis, Indiana</city>
+                <conference>East</conference>
+                <division>Central</division>
+                <logo>Pacers.png</logo>
+                <stadium>Bankers Life FieldHouse</stadium>
+                <stadimage>pacersstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/pacers/</webteam>
+                <webroster>https://www.nba.com/pacers/roster</webroster>
+                <player>Myles Turner</player>
+                <playerimage>myles.png</playerimage>
+                <position>Center</position>
+                <dob>24 Mar 1996</dob>
+                <height>6'11"</height>
+                <draft>#11   2015</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Myles_Turner</playerweb>
+        </team>
+
+        <team>
+               <name>Los Angeles Clippers</name>
+                <abreviation>LAC</abreviation>
+                <city>Los Angeles, California</city>
+                <conference>West</conference>
+                <division>Pacific</division>
+                <logo>Clippers.png</logo>
+                <stadium>Crypto.com Arena</stadium>
+                <stadimage>lastad.jpeg</stadimage>
+                <webteam>https://www.nba.com/clippers/</webteam>
+                <webroster>https://www.nba.com/clippers/roster</webroster>
+                <player>Kawhi Leonard</player>
+                <playerimage>kawhi.png</playerimage>
+                <position>Forward</position>
+                <dob>29 Jun 1991</dob>
+                <height>6'7"</height>
+                <draft>#15   2011</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Kawhi_Leonard</playerweb>
+        </team>
+
+        <team>
+                <name>Los Angeles Lakers</name>
+                 <abreviation>LAL</abreviation>
+                 <city>Los Angeles, California</city>
+                 <conference>West</conference>
+                 <division>Pacific</division>
+                 <logo>Lakers.png</logo>
+                 <stadium>Crypto.com Arena</stadium>
+                 <stadimage>lastad.jpeg</stadimage>
+                 <webteam>https://www.nba.com/lakers/</webteam>
+                 <webroster>https://www.nba.com/lakers/roster</webroster>
+                 <player>LeBron James</player>
+                 <playerimage>lebron.png</playerimage>
+                 <position>Guard</position>
+                 <dob>30 Dec 1984</dob>
+                 <height>6'9"</height>
+                 <draft>#1   2003</draft>
+                 <playerweb>https://en.wikipedia.org/wiki/LeBron_James</playerweb>
+        </team>
+
+        <team>
+               <name>Memphis Grizzlies</name>
+                <abreviation>MEM</abreviation>
+                <city>Memphis, Tennessee</city>
+                <conference>West</conference>
+                <division>Southwest</division>
+                <logo>Grizzlies.png</logo>
+                <stadium>FedEx Forum</stadium>
+                <stadimage>grizzliesstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/grizzlies/</webteam>
+                <webroster>https://www.nba.com/grizzlies/roster</webroster>
+                <player>Ja Morant</player>
+                <playerimage>ja.png</playerimage>
+                <position>Guard</position>
+                <dob>10 Aug 1999</dob>
+                <height>6'3"</height>
+                <draft>#2   2019</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Ja_Morant</playerweb>
+        </team>
+
+        <team>
+               <name>Miami Heat</name>
+                <abreviation>MIA</abreviation>
+                <city>Miami, Florida</city>
+                <conference>East</conference>
+                <division>Southeast</division>
+                <logo>Heat.png</logo>
+                <stadium>FTX Arena</stadium>
+                <stadimage>heatstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/heat/</webteam>
+                <webroster>https://www.nba.com/heat/roster</webroster>
+                <player>Jimmy Butler</player>
+                <playerimage>butler.png</playerimage>
+                <position>Forward</position>
+                <dob>14 Sep 1989</dob>
+                <height>6'7"</height>
+                <draft>#30   2011</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Jimmy_Butler</playerweb>
+
+        <team>
+               <name>Milwaukee Bucks</name>
+                <abreviation>MIL</abreviation>
+                <city>Milwaukee, Wisconsin</city>
+                <conference>East</conference>
+                <division>Central</division>
+                <logo>Bucks.png</logo>
+                <stadium>Fiserv Forum</stadium>
+                <stadimage>bucksstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/bucks/</webteam>
+                <webroster>https://www.nba.com/bucks/roster</webroster>
+                <player>Giannis
+                    Antetokounmpo</player>
+                <playerimage>freak.png</playerimage>
+                <position>Forward</position>
+                <dob>6 Dec 1994</dob>
+                <height>6'11"</height>
+                <draft>#15   2013</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Giannis_Antetokounmpo</playerweb>
+        </team>
+
+        <team>
+               <name>Minnesota Timberwolves</name>
+                <abreviation>MIN</abreviation>
+                <city>Minneapolis, Minnesota</city>
+                <conference>West</conference>
+                <division>Northwest</division>
+                <logo>Timber.png</logo>
+                <stadium>Target Center</stadium>
+                <stadimage>timberstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/timberwolves/</webteam>
+                <webroster>https://www.nba.com/timberwolves/roster</webroster>
+                <player>Anthony Edwards</player>
+                <playerimage>edwards.png</playerimage>
+                <position>Guard</position>
+                <dob>5 Aug 2001</dob>
+                <height>6'4"</height>
+                <draft>#1   2020</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Anthony_Edwards_(basketball)</playerweb>
+        </team>
+
+        <team>
+               <name>New Orleans Pelicans</name>
+                <abreviation>NOP</abreviation>
+                <city>New Orleans, Louisiana</city>
+                <conference>West</conference>
+                <division>Southwest</division>
+                <logo>Pelicans.png</logo>
+                <stadium>Smoothie King Center</stadium>
+                <stadimage>pelicansstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/pelicans/</webteam>
+                <webroster>https://www.nba.com/pelicans/roster</webroster>
+                <player>Zion Williamson</player>
+                <playerimage>zion.png</playerimage>
+                <position>Forward</position>
+                <dob>6 Jul 2000</dob>
+                <height>6'6"</height>
+                <draft>#1   2019</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Zion_Williamson</playerweb>
+        </team>
+
+        <team>
+               <name>New York Knicks</name>
+                <abreviation>NYK</abreviation>
+                <city>New York City, New York</city>
+                <conference>East</conference>
+                <division>Atlantic</division>
+                <logo>Knicks.png</logo>
+                <stadium>Madison Square Garden</stadium>
+                <stadimage>knicksstad.png</stadimage>
+                <webteam>https://www.nba.com/knicks/</webteam>
+                <webroster>https://www.nba.com/knicks/roster</webroster>
+                <player>Julius Randle</player>
+                <playerimage>randle.png</playerimage>
+                <position>Forward</position>
+                <dob>29 Nov 1994</dob>
+                <height>6'8"</height>
+                <draft>#7   2014</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Julius_Randle</playerweb>
+        </team>
+
+        <team>
+               <name>Oklahoma City Thunder</name>
+                <abreviation>OKC</abreviation>
+                <city>Oklahoma City, Oklahoma</city>
+                <conference>West</conference>
+                <division>Northwest</division>
+                <logo>Thunder.png</logo>
+                <stadium>Chesapeake Energy Arena</stadium>
+                <stadimage>okcstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/thunder/</webteam>
+                <webroster>https://www.nba.com/thunder/roster</webroster>
+                <player>Shai Gilgeous-Alexander</player>
+                <playerimage>shai.png</playerimage>
+                <position>Guard</position>
+                <dob>12 Jul 1998</dob>
+                <height>6'6"</height>
+                <draft>#11   2018</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Shai_Gilgeous-Alexander</playerweb>
+        </team>
+
+        <team>
+               <name>Orlando Magic</name>
+                <abreviation>ORL</abreviation>
+                <city>Orlando, Florida</city>
+                <conference>East</conference>
+                <division>Southeast</division>
+                <logo>Magic.png</logo>
+                <stadium>Amway Center</stadium>
+                <stadimage>magicstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/magic/</webteam>
+                <webroster>https://www.nba.com/magic/roster</webroster>
+                <player>Mo Bamba</player>
+                <playerimage>mo.png</playerimage>
+                <position>Center</position>
+                <dob>12 May 1998</dob>
+                <height>7'0"</height>
+                <draft>#6   2018</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Mo_Bamba</playerweb>
+        </team>
+
+        <team>
+               <name>Philadelphia 76ers</name>
+                <abreviation>PHI</abreviation>
+                <city>Philadelphia, Pennsylvania</city>
+                <conference>East</conference>
+                <division>Atlantic</division>
+                <logo>76ers.png</logo>
+                <stadium>Wells Fargo Center</stadium>
+                <stadimage>76ersstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/sixers/</webteam>
+                <webroster>https://www.nba.com/sixers/roster</webroster>
+                <player>Joel Embiid</player>
+                <playerimage>joel.png</playerimage>
+                <position>Center</position>
+                <dob>16 Mar 1994</dob>
+                <height>7'0"</height>
+                <draft>#3   2014</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Joel_Embiid</playerweb>
+        </team>
+
+        <team>
+               <name>Phoenix Suns</name>
+                <abreviation>PHX</abreviation>
+                <city>Phoenix, Arizona</city>
+                <conference>West</conference>
+                <division>Pacific</division>
+                <logo>Suns.png</logo>
+                <stadium>Talking Sticks Resort Arena</stadium>
+                <stadimage>sunsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/suns/</webteam>
+                <webroster>https://www.nba.com/suns/roster</webroster>
+                <player>Devin Booker</player>
+                <playerimage>booker.png</playerimage>
+                <position>Guard</position>
+                <dob>30 Oct 1996</dob>
+                <height>6'5"</height>
+                <draft>#13   2015</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Devin_Booker</playerweb>
+        </team>
+
+        <team>
+               <name>Portland Trail Blazers</name>
+                <abreviation>POR</abreviation>
+                <city>Portland, Oregon</city>
+                <conference>West</conference>
+                <division>Northwest</division>
+                <logo>Blazers.png</logo>
+                <stadium>Moda Center</stadium>
+                <stadimage>blazersstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/blazers/</webteam>
+                <webroster>https://www.nba.com/blazers/roster</webroster>
+                <player>Damian Lillard</player>
+                <playerimage>dame.png</playerimage>
+                <position>Guard</position>
+                <dob>15 Jul 1990</dob>
+                <height>6'2"</height>
+                <draft>#6   2012</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Damian_Lillard</playerweb>
+        </team>
+
+        <team>
+               <name>Sacramento Kings</name>
+                <abreviation>SAC</abreviation>
+                <city>Sacramento, California</city>
+                <conference>West</conference>
+                <division>Pacific</division>
+                <logo>Kings.png</logo>
+                <stadium>Golden 1 Center</stadium>
+                <stadimage>kingsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/kings/</webteam>
+                <webroster>https://www.nba.com/kings/roster</webroster>
+                <player>De'Aaron Fox</player>
+                <playerimage>fox.png</playerimage>
+                <position>Guard</position>
+                <dob>20 Dec 1997</dob>
+                <height>6'3"</height>
+                <draft>#5   2017</draft>
+                <playerweb>https://en.wikipedia.org/wiki/De%27Aaron_Fox</playerweb>
+        </team>
+
+        <team>
+               <name>San Antonio Spurs</name>
+                <abreviation>SAS</abreviation>
+                <city>San Antonio, Texas</city>
+                <conference>West</conference>
+                <division>Southwest</division>
+                <logo>Spurs.png</logo>
+                <stadium>AT&T Center</stadium>
+                <stadimage>spursstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/spurs/</webteam>
+                <webroster>https://www.nba.com/spurs/roster</webroster>
+                <player>Dejounte Murray</player>
+                <playerimage>murray.png</playerimage>
+                <position>Guard</position>
+                <dob>19 Sep 1996</dob>
+                <height>6'4"</height>
+                <draft>#29   2016</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Dejounte_Murray</playerweb>
+        </team>
+
+        <team>
+               <name>Toronto Raptors</name>
+                <abreviation>TOR</abreviation>
+                <city>Toronto, Ontario</city>
+                <conference>East</conference>
+                <division>Atlantic</division>
+                <logo>Raptors.png</logo>
+                <stadium>Scotiabank Arena</stadium>
+                <stadimage>raptorsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/raptors/</webteam>
+                <webroster>https://www.nba.com/raptors/roster</webroster>
+                <player>Fred VanVleet</player>
+                <playerimage>fred.png</playerimage>
+                <position>Guard</position>
+                <dob>25 Feb 1994</dob>
+                <height>6'1"</height>
+                <draft>Undrafted</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Fred_VanVleet</playerweb>
+        </team>
+
+        <team>
+               <name>Utah Jazz</name>
+                <abreviation>UTA</abreviation>
+                <city>Salt Lake City, Utah</city>
+                <conference>West</conference>
+                <division>Northwest</division>
+                <logo>Jazz.png</logo>
+                <stadium>Vivint Smart Home Arena</stadium>
+                <stadimage>jazzstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/jazz/</webteam>
+                <webroster>https://www.nba.com/jazz/roster</webroster>
+                <player>Donovan Mitchel</player>
+                <playerimage>spida.png</playerimage>
+                <position>Guard</position>
+                <dob>7 Sep 1996</dob>
+                <height>6'1"</height>
+                <draft>#13   2017</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Donovan_Mitchell</playerweb>
+        </team>
+
+        <team>
+               <name>Washington Wizards</name>
+                <abreviation>WAS</abreviation>
+                <city>Washington, D.C.</city>
+                <conference>East</conference>
+                <division>Southeast</division>
+                <logo>Wizards.png</logo>
+                <stadium>Capital One Arena</stadium>
+                <stadimage>wizardsstad.jpeg</stadimage>
+                <webteam>https://www.nba.com/wizards/</webteam>
+                <webroster>https://www.nba.com/wizards/roster</webroster>
+                <player>Bradley Beal</player>
+                <playerimage>beal.png</playerimage>
+                <position>Guard</position>
+                <dob>28 Jun 1993</dob>
+                <height>6'4"</height>
+                <draft>#3   2012</draft>
+                <playerweb>https://en.wikipedia.org/wiki/Bradley_Beal</playerweb>
+        </team>
+
+</nba>}
