@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21A559" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CoreDataEntity" representedClassName=".CoreDataEntity" syncable="YES">
+        <attribute name="abreviation" optional="YES" attributeType="String"/>
+        <attribute name="city" optional="YES" attributeType="String"/>
+        <attribute name="conference" optional="YES" attributeType="String"/>
+        <attribute name="division" optional="YES" attributeType="String"/>
+        <attribute name="dob" optional="YES" attributeType="String"/>
+        <attribute name="draft" optional="YES" attributeType="String"/>
+        <attribute name="height" optional="YES" attributeType="String"/>
+        <attribute name="isFavourited" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="logo" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="player" optional="YES" attributeType="String"/>
+        <attribute name="playerimage" optional="YES" attributeType="String"/>
+        <attribute name="playerweb" optional="YES" attributeType="String"/>
+        <attribute name="position" optional="YES" attributeType="String"/>
+        <attribute name="stadimage" optional="YES" attributeType="String"/>
+        <attribute name="stadium" optional="YES" attributeType="String"/>
+        <attribute name="webroster" optional="YES" attributeType="String"/>
+        <attribute name="webteam" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="CoreDataEntity" positionX="-63" positionY="-18" width="128" height="299"/>
+    </elements>
+</model>
