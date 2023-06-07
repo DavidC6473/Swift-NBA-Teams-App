@@ -30,8 +30,4 @@ The app maintains the initial design from Assignment 1, featuring seven screens 
 6. Best Player Details Screen: Provides detailed information about the team's best player.
 7. Player Wiki Webpage Screen: Displays the Wikipedia page of the selected player.
 
-## Images
-
-All images in the app, including team logos, stadium images, and player images, have been edited using GIMP to ensure consistent dimensions and appearance when displayed in the table view.
-
 Please note that this app is a project and may have limitations or areas for improvement.
